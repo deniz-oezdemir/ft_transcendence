@@ -10,7 +10,7 @@
 ## Research
 
 ### Databases
-PostgreSQL
+(PostgreSQL)[https://www.youtube.com/watch?v=n2Fluyr3lbc]
 
 ### Microservices
 Good if we want to build a functional MVP first and iteratively add new features.
